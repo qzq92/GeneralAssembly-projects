@@ -128,11 +128,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-*.tfrecord
-LTAdatasets.zip
-pytorch_extra_files
-models
-opencv/
-protobuf/
-pre-trained-models/
-training/models/
